@@ -7,4 +7,5 @@ My contribution to the project was to develope an Android App to manage and pres
 There are available captures of the app and the final aspect of the project on the [Wiki](https://github.com/sokramcs/smart_bike/wiki) of this project.
 
 This code was developed for the subject Multimedia Embeded Systems, developed during the second semester of the 2016/2017 academic year.
+
 Kudos to Burak and Serhii for their excelent work.
