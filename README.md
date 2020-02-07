@@ -2,7 +2,7 @@
 
 This project has a main goal - to create a RaspBerry Pi-controlled system to improve the cycling experience.
 
-My contribution to the project was to develope an Android App to manage and present the information received from the RPi to the user.
+My contribution to the project was to develop an Android App to manage and present the information received from the RPi to the user.
 
 There are available captures of the app and the final aspect of the project on the [Wiki](https://github.com/sokramcs/smart_bike/wiki) of this project.
 
